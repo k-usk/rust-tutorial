@@ -1,0 +1,6 @@
+[package]
+name = "doc_sample"
+version = "0.1.0"
+authors = ["vagrant"]
+
+[dependencies]
